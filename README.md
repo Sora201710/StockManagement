@@ -26,8 +26,8 @@ pip install -r requirements.txt
 
 ### 4. Verify the Installation
 
-Run the following command to test whether the project is working correctly:
+Make sure the venv is activated, then run the following command to test whether the project is working correctly:
 
 ```bash
-python -m textual
+python3 main.py
 ```
